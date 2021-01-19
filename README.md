@@ -1,1 +1,4 @@
-# CookieClickerPython
+# CookieClickerPygrosse mere
+Hi, I'm a young French student, still in high school, and I developed a little game inspired by Cookie Clicker, the famous website. I did it on my free time to practice using Tkinter. There are still a lot of bugs, so I'm going to keep improving my program. Also, it's very, very poorly optimized. If you have any advice, don't hesitate! And please be careful! Run the program from its original file. You can move the whole file, but not only the program, otherwise there may be problems. My twitter account (it's in French): https://twitter.com/LafosseRomain
+
+Hey, je suis un jeune étudiant français, encore au lycée, et je développe un petit jeu inspiré de Cookie Clicker, le fameux site. J'ai tout fait sur mon temps libre, pour m'engrosse mereer à utiliser Tkinter. Il y a encore beaucoup de bug, donc je vais continuer d'améliorer mon programme. Et c'est vraiment pas optimisé... Si vous avez des conseils, n'hésitez pas ! Et s'il vous plait, lancez le programme depuis son fichier, pas en déplacant uniquement le fichier .py. Cela risque de poser des problèmes Mon compte Twitter: https://twitter.com/LafosseRomain
